@@ -1,5 +1,6 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+French+cpp+Developer;I'm+an+Epitech+student;I'm+Nale"></p>
 
+
 <!-- Display the profile view badge -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naleeee&label=Profile%20views&color=0e75b6&style=flat" alt="naleeee" /> </p>
 
