@@ -7,7 +7,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Display GitHub trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=naleeee&theme=onedark)](https://github.com/naleeee/github-profile-trophy)
+<!-- &title=Commits,Issues,PullRequest,Repositories,Joined2020 -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=naleeee&theme=onedark&title=Commits,Issues,PullRequest,Repositories,Joined2020,Stars&no-bg=true&margin-w=20&column=3" alt="GitHub Trophies" /></a> </p>
 
 - 🔭 I’m currently working on [my personal app](https://github.com/Naleeee/SelfApp)
 
