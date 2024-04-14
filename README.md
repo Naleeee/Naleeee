@@ -1,54 +1,59 @@
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+French+Developer;I'm+an+Epitech+student;I'm+Nale"></p>
+<strong>
 
-<!-- Display the profile view badge -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naleeee&label=Profile%20views&color=0e75b6&style=flat" alt="naleeee" /> </p>
+<div align="center">
+  <a href="https://www.nathanlemale.com" title="Portfolio">
+    <p align="center" color="#36BCF7FF"><img src="./LogoName.svg"></p>
+  </a>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <a href="#about">𝗔𝗕𝗢𝗨𝗧</a>&nbsp;&nbsp;&nbsp;
+  <a href="#skills">𝗦𝗞𝗜𝗟𝗟𝗦</a>&nbsp;&nbsp;&nbsp;
+  <a href="#achievements">𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦</a>&nbsp;&nbsp;&nbsp;
+  <a href="#contact">𝗖𝗢𝗡𝗧𝗔𝗖𝗧</a>
+  <!-- Display the profile view badge -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=naleeee&label=Profile%20views&color=0e75b6&style=flat" alt="naleeee" /> -->
+</div>
 
-<!-- Display GitHub trophy -->
-<!-- &title=Commits,Issues,PullRequest,Repositories,Joined2020 -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=naleeee&theme=onedark&title=Commits,Issues,PullRequest,Repositories,Joined2020,Stars&no-bg=true&margin-w=20&column=3" alt="GitHub Trophies" /></a> </p>
+## About
 
-- 🔭 I’m currently working on [my personal app](https://github.com/Naleeee/SelfApp)
+- 🔭 I’m currently working on Unity game development at Keimyung University as an exchange student
 
-- 🌱 I’m currently learning **react, react native and c++**
+- 🌱 I’m currently learning **Vue Js, C#, Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naleeee](https://github.com/Naleeee)
 
-- 💬 Ask me about **c, c++ and react native**
+- 📫 How to reach me <a href="mailto:nthn.lemale@gmail.com">nthn.lemale@gmail.com</a>
 
-- 📫 How to reach me **nthn.lemale@gmail.com**
+## Skills
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nathan-lemale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-lemale" height="50" width="100" /></a>
-</p>
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70px"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="70px"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="vuejs" width="70px"/>|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="react" width="70px"/>|
+| :---: | :---: | :---: | :---: |
+|<p align="center"><strong>React</strong></p>|<p align="center"><strong>Vue Js</strong></p>|<p align="center"><strong>Next Js</strong></p>|<p align="center"><strong>Git</strong></p>|
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="react" width="70px"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="react" width="70px"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="react" width="70px"/>|<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="react" width="70px"/>|
+| :---: | :---: | :---: | :---: |
+|<p align="center"><strong>C</strong></p>|<p align="center"><strong>C++</strong></p>|<p align="center"><strong>C#</strong></p>|<p align="center"><strong>Bash</strong></p>|
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="100" height="100"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a>
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="react" width="70px"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="react" width="70px"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="react" width="70px"/>|<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="react" width="70px"/>|
+| :---: | :---: | :---: | :---: |
+|<p align="center"><strong>Docker</strong></p>|<p align="center"><strong>Lua</strong></p>|<p align="center"><strong>Linux</strong></p>|<p align="center"><strong>Figma</strong></p>|
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height="100"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="100" height="100"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="100" height="100"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" height="100"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="100" height="100"/> </a>
+</div>
 
-</p>
+## Achievements
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Display GitHub trophy -->
+<!-- &title=Commits,Issues,PullRequest,Repositories,Joined2020 -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=naleeee&theme=onedark&title=Commits,Issues,PullRequest,Repositories,Joined2020,Stars&no-bg=true&margin-w=20&column=3" alt="GitHub Trophies" /></a>
+</div>
 
-### 📈 User Statistics
+## 📈 User Statistics
 
+<div align="center">
 <table>
   <tbody>
     <tr>
@@ -100,3 +105,22 @@
     </tr>
   </tbody>
 </table>
+</div>
+
+## Contact
+
+<div align="center"><p align="center">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/nathan-lemale" title="LinkedIn">
+        <img src="./linkedin.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Naleeee" title="GitHub">
+        <img src="./github.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.nathanlemale.com" title="Portfolio">
+        <img src="./user.png" width="4%" />
+    </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br>
+<p align="center"><strong>Thanks for visiting!</strong></p>
