@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack software developer
 -------------
 
-I've been learning to code since 5 years at Epitech now, I discovered a real passion for IT and particularly software development.
+Recently graduated from Epitech, I discovered a real passion for IT and particularly software development.
 
 - 🌍  I'm based in France
 - 🖥️  See my portfolio at [nathanlemale.com](http://nathanlemale.com)
