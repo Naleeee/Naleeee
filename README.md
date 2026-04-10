@@ -9,7 +9,7 @@ I've been learning to code since 5 years at Epitech now, I discovered a real pas
 - 🌍  I'm based in France
 - 🖥️  See my portfolio at [nathanlemale.com](http://nathanlemale.com)
 - ✉️  You can contact me at [nthn.lemale@gmail.com](mailto:nthn.lemale@gmail.com)
-- 🚀  I'm currently working on [Yalink app](http://www.yalink.fr/)
+- 🚀  I'm currently working at Comptastar
 - 🧠  I'm learning VueJs, NextJs and React.
 - 🤝  I'm open to collaborating on web developement, neovim features and plugins.
 - ⚡  I'm a big fan of the band Twenty One Pilots, but not sure this adds much to my tech profile !
